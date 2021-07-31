@@ -12,6 +12,8 @@ import { createStackNavigator } from '@react-navigation/stack';
 import { NavigationContainer } from '@react-navigation/native';
 
 
+
+
 import SignUp from './src/SignUp';
 import Login from './src/Login';
 import AccountDetials from './src/AccountDetials';
